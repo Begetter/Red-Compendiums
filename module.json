@@ -199,7 +199,7 @@
 			"module": "Red-Compendium"
 		}
 	],
-	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
-	"manifest": "https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/main/module.json",
-	"download": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/archive/main.zip"
+	"url": "https://github.com/Begetter/Red-Compendiums",
+	"manifest": "https://github.com/Begetter/Red-Compendiums/blob/main/module.json",
+	"download": "https://github.com/Begetter/Red-Compendiums/archive/main.zip"
 }

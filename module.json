@@ -1,0 +1,205 @@
+{
+	"name": "Red Compendium",
+	"title": "CyberPunk Red Compendium",
+	"description": "Adds Generic NPCs, weapons, cyberware, net runner stuff, rollable encounter tables. More to come.",
+	"author": "Corrupxion",
+	"version": "1.3",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.8",
+	"packs": [{
+			"name": "weapons",
+			"label": "Basic Weapons",
+			"path": "packs/weapons.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "NPCs",
+			"label": "Generic NPCs",
+			"path": "packs/npc-mooks.db",
+			"entity": "Actor",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "borg",
+			"label": "borgware",
+			"path": "packs/borgware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "cyberaud",
+			"label": "cyberaudio",
+			"path": "packs/cyberaudio.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "cyberdeck hardware",
+			"label": "cyberdeck-hardware",
+			"path": "packs/cyberdeck-hardware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "cyberlimbs cyberarm",
+			"label": "cyberlimbs-cyberarm",
+			"path": "packs/cyberlimbs-cyberarm.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "cyberlimbs cyberlegs",
+			"label": "cyberlimbs-cyberlegs",
+			"path": "packs/cyberlimbs-cyberlegs.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "cybergoptics",
+			"label": "cyberoptics",
+			"path": "packs/cyberoptics.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "drugos",
+			"label": "drugs",
+			"path": "packs/drugs.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "encounter",
+			"label": "encounters",
+			"path": "packs/encounter.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "external body cyberware",
+			"label": "external-body-cyberware",
+			"path": "packs/external-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "fashion ware",
+			"label": "fashionware",
+			"path": "packs/fashionware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "internal body cyberware",
+			"label": "internal-body-cyberware",
+			"path": "packs/internal-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "basic items",
+			"label": "items",
+			"path": "packs/items.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "neuralwares",
+			"label": "neuralware",
+			"path": "packs/neuralware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "programs attackers",
+			"label": "programs-attackers",
+			"path": "packs/programs-attackers.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "programs black ice",
+			"label": "programs-black-ice",
+			"path": "packs/programs-black-ice.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "programs boosters",
+			"label": "programs-boosters",
+			"path": "packs/programs-boosters.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "programs defender",
+			"label": "programs-defender",
+			"path": "packs/programs-defender.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "ammunition-",
+			"label": "ammunition",
+			"path": "packs/ammunition.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "armor SP",
+			"label": "armor",
+			"path": "packs/armor.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "role specific stat blocks",
+			"label": "role-specific-stat-blocks",
+			"path": "packs/role-specific-stat-blocks.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "role specific lifepaths",
+			"label": "role-specific-lifepaths",
+			"path": "packs/role-specific-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		},
+		{
+			"name": "general lifepaths",
+			"label": "general-lifepaths",
+			"path": "packs/general-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "Red-Compendium"
+		}
+	],
+	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
+	"manifest": "https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/main/module.json",
+	"download": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/archive/main.zip"
+}

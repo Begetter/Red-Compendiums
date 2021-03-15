@@ -200,6 +200,6 @@
 		}
 	],
 	"url": "https://github.com/Begetter/Red-Compendiums",
-	"manifest": "https://github.com/Begetter/Red-Compendiums/blob/main/module.json",
+	"manifest": "https://raw.githubusercontent.com/Begetter/Red-Compendiums/main/module.json",
 	"download": "https://github.com/Begetter/Red-Compendiums/archive/main.zip"
 }

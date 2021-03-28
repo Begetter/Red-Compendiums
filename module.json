@@ -1,26 +1,18 @@
 {
-	"name": "Red Compendium",
-	"title": "CyberPunk Red Compendium",
-	"description": "Adds Generic NPCs, weapons, cyberware, net runner stuff, rollable encounter tables. More to come.",
-	"author": "Corrupxion",
-	"version": "1.3",
-	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "0.7.8",
+	"name": "CPRED-Compendium-CORE",
+	"title": "CyberPunk Red Fan Compendium CORE UPDATED",
+	"description": "Adds Generic weapons, cyberware, net runner stuff, rollable encounter tables.",
+	"author": "LordOfCardboard & DankTrain",
+	"version": "1.4",
+	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion": "0.7.9",
 	"packs": [{
 			"name": "weapons",
 			"label": "Basic Weapons",
 			"path": "packs/weapons.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
-		},
-		{
-			"name": "NPCs",
-			"label": "Generic NPCs",
-			"path": "packs/npc-mooks.db",
-			"entity": "Actor",
-			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "borg",
@@ -28,7 +20,7 @@
 			"path": "packs/borgware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "cyberaud",
@@ -36,7 +28,7 @@
 			"path": "packs/cyberaudio.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "cyberdeck hardware",
@@ -44,7 +36,7 @@
 			"path": "packs/cyberdeck-hardware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "cyberlimbs cyberarm",
@@ -52,7 +44,7 @@
 			"path": "packs/cyberlimbs-cyberarm.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "cyberlimbs cyberlegs",
@@ -60,7 +52,7 @@
 			"path": "packs/cyberlimbs-cyberlegs.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "cybergoptics",
@@ -68,7 +60,7 @@
 			"path": "packs/cyberoptics.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "drugos",
@@ -76,7 +68,7 @@
 			"path": "packs/drugs.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "encounter",
@@ -84,7 +76,7 @@
 			"path": "packs/encounter.db",
 			"entity": "RollTable",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "external body cyberware",
@@ -92,7 +84,7 @@
 			"path": "packs/external-body-cyberware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "fashion ware",
@@ -100,7 +92,7 @@
 			"path": "packs/fashionware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "internal body cyberware",
@@ -108,7 +100,7 @@
 			"path": "packs/internal-body-cyberware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "basic items",
@@ -116,7 +108,7 @@
 			"path": "packs/items.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "neuralwares",
@@ -124,7 +116,7 @@
 			"path": "packs/neuralware.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "programs attackers",
@@ -132,7 +124,7 @@
 			"path": "packs/programs-attackers.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "programs black ice",
@@ -140,7 +132,7 @@
 			"path": "packs/programs-black-ice.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "programs boosters",
@@ -148,7 +140,7 @@
 			"path": "packs/programs-boosters.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "programs defender",
@@ -156,7 +148,7 @@
 			"path": "packs/programs-defender.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "ammunition-",
@@ -164,7 +156,7 @@
 			"path": "packs/ammunition.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "armor SP",
@@ -172,7 +164,7 @@
 			"path": "packs/armor.db",
 			"entity": "Item",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "role specific stat blocks",
@@ -180,7 +172,7 @@
 			"path": "packs/role-specific-stat-blocks.db",
 			"entity": "RollTable",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "role specific lifepaths",
@@ -188,7 +180,7 @@
 			"path": "packs/role-specific-lifepaths.db",
 			"entity": "RollTable",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		},
 		{
 			"name": "general lifepaths",
@@ -196,10 +188,10 @@
 			"path": "packs/general-lifepaths.db",
 			"entity": "RollTable",
 			"system": "cyberpunk-red-core",
-			"module": "Red-Compendium"
+			"module": "CPRED-Compendium-CORE"
 		}
 	],
-	"url": "https://github.com/Begetter/Red-Compendiums",
-	"manifest": "https://raw.githubusercontent.com/Begetter/Red-Compendiums/main/module.json",
-	"download": "https://github.com/Begetter/Red-Compendiums/archive/main.zip"
+	"url": "",
+	"manifest": "",
+	"download": ""
 }
